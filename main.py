@@ -1,6 +1,5 @@
 #Main file
 def stringToMatrix(string, numColls):
-    numColls = 7
     matrizfinal = []
     aux = []
     pos = 0
